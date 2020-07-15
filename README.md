@@ -14,3 +14,8 @@ My job requires presenting analytical data to stakeholders who do not have a dee
 
 # Government Debt
 <iframe src="https://data.oecd.org/chart/61PN" width="800" height="600" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/61PN" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2018</a></iframe>
+
+# Government Debt Flourish
+Below is a chart that depicts Debt-to-GDP ratio for countries from 1995 to 2019 
+
+<div class="flourish-embed flourish-chart" data-src="visualisation/3189245" data-url="https://flo.uri.sh/visualisation/3189245/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
