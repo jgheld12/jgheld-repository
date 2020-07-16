@@ -19,3 +19,9 @@ My job requires presenting analytical data to stakeholders who do not have a dee
 Below is a chart that depicts Debt-to-GDP ratio for countries from 1995 to 2019 
 
 <div class="flourish-embed flourish-chart" data-src="visualisation/3189245" data-url="https://flo.uri.sh/visualisation/3189245/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
+
+# Government Debt Flourish #2
+
+Below is a chart that allows you to see the change in Debt-to-GDP ratio for a number of countries from 1995 to 2018 and how that change compares to other countries
+
+<div class="flourish-embed flourish-scatter" data-src="visualisation/3189679" data-url="https://flo.uri.sh/visualisation/3189679/embed"><script src="https://public.flourish.studio/resources/embed.js"></script></div>
