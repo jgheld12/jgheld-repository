@@ -8,3 +8,5 @@ My next steps were to try and think about how to improve upon this chart.  I dec
 
 I created a rough sketch of what the chart would look like and sent it to 2 people to review.  I selected one person in my target audience (an Arizona school teacher) and one person who has experience with data visualizations (former manager of data analysts).  I thought that the mix of these 2 perspectives would help to create a chart that is polished and understandable by the people that really need to understand it.
 
+# Original Wireframe and Feedback
+![Original Wireframe](critique_design_wireframe.jpg)
