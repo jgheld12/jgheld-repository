@@ -59,4 +59,5 @@ Is there anything you would change or do differently?
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
 
+
 In my final redesign, I tried to address all of the issues raised from my friends' feedback.  I defined Four-Year College Attainment Rate differently, I labeled the 2 Tucson data points, and made it clear that the goal line was for Tucson.  I think that this chart is much easier to read and understand compared to the initial dial chart.  At a glance, you can see that Tucson has gone from below to above the US Average over the past 10 years, which is the most important information we are trying to get across.
