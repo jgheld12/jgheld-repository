@@ -12,7 +12,7 @@ I created a rough sketch of what the chart would look like and sent it to 2 peop
 ![Original Wireframe](critique_design_wireframe.jpg)
 
 # Feedback
-Friend #1, Arizona school teacher:
+**Friend #1, Arizona school teacher:**
 
 Can you tell me what you think this is?
 * to show the percentage growth of students achieving a 4-year college degree compared to other western US cities
@@ -29,7 +29,7 @@ Who do you think the audience is for this?
 Is there anything you would change or do differently?
 * I liked it!!! Sooo cute! I would add labels for the Tucson percentages and add that the other cities are regional
 
-Friend #2, Manager of Data Analysts:
+**Friend #2, Manager of Data Analysts:**
 
 Can you tell me what you think this is?
 * not sure if it's a chart of high school students getting into a 4 year college or students who started college and ending up after 4 years getting a degree
@@ -58,3 +58,5 @@ Is there anything you would change or do differently?
   scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
   vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+In my final redesign, I tried to address all of the issues raised from my friends' feedback.  I defined Four-Year College Attainment Rate differently, I labeled the 2 Tucson data points, and made it clear that the goal line was for Tucson.  I think that this chart is much easier to read and understand compared to the initial dial chart.  At a glance, you can see that Tucson has gone from below to above the US Average over the past 10 years, which is the most important information we are trying to get across.
