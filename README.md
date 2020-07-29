@@ -19,3 +19,15 @@ var scriptElement = document.createElement('script');
 scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
 vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
+
+### Government Debt
+https://jgheld12.github.io/jgheld-repository/dataviz2
+
+### Critique by Design #1
+https://jgheld12.github.io/jgheld-repository/critique_by_design_1
+
+### Scotch Homework
+https://jgheld12.github.io/jgheld-repository/scotch_homework
+
+# Final Project
+### Part I: Project Summary, Data, Project Wireframes / Storyboards and User Research
