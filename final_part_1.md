@@ -14,12 +14,12 @@ https://jgheld12.github.io/jgheld-repository/ACSST1Y2018.S1702_data_with_overlay
 
 ### Interviewee #1: Career Development Specialist for Underprivileged Youth for a Non-Profit in Phoenix
 1st Content Page:
-- What is the purpose of this page?\n
-To provide demographic data- ethnic minorities (Hispanic) in different school districts. 
-- What does the chart tell you?
-Tolleson and Phoenix Union high school districts have higher percentages of Hispanic students than Arizona and US. 
-- Is there additional information you would like to know?
-No
+1) What is the purpose of this page?\n
+- To provide demographic data- ethnic minorities (Hispanic) in different school districts. 
+2) What does the chart tell you?
+- Tolleson and Phoenix Union high school districts have higher percentages of Hispanic students than Arizona and US. 
+3) Is there additional information you would like to know?
+- No
 
 2nd Content Page:
 1) What is the purpose of this page?
