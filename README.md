@@ -32,3 +32,6 @@ https://jgheld12.github.io/jgheld-repository/scotch_homework
 # Final Project
 ### Part I: Project Summary, Data, Project Wireframes / Storyboards and User Research
 https://jgheld12.github.io/jgheld-repository/final_part_1
+
+### Final Project (Shorthand)
+[https://carnegiemellon.shorthandstories.com/jgheld_final_project/index.html](https://carnegiemellon.shorthandstories.com/jgheld_final_project/index.html)
