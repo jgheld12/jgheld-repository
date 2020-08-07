@@ -35,3 +35,6 @@ https://jgheld12.github.io/jgheld-repository/final_part_1
 
 ### Final Project (Shorthand)
 [https://carnegiemellon.shorthandstories.com/jgheld_final_project/index.html](https://carnegiemellon.shorthandstories.com/jgheld_final_project/index.html)
+
+### Final Project Page
+[Final Project Assignment](https://jgheld12.github.io/jgheld-repository/final_project)
